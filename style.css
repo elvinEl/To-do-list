@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.deleteButton{
+    display: inline-block;
+    height: 25px;
+    width: 42px;
+    background-color: red;
+    margin-left: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+
+}
+.finishButton{
+    display: inline-block;
+    height: 25px;
+    width: 60px;
+    background-color: orange;
+    margin-left: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+
+}
+.new{
+    margin-top: 10px;
+}
+.line-text{
+    text-decoration: line-through;
+}
